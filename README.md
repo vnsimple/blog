@@ -8,13 +8,10 @@ https://vnsimple.github.io/data-analysis/
 
 # My Blog
 
+Xin chào, blog này gồm các series hướng dẫn xử lý dữ liệu quan trắc trong môi trường, hoặc các ảnh viễn thám bằng Python.
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
 
-
-## What To Do Next?
-
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+Some helpful links for create a blog like mine:
 
 - [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
 
@@ -24,6 +21,4 @@ Great!  You have setup your repo.  Now its time to start writing content.  Some 
 
 - [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
 
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+For more information. Please check _powered by [fastpages](https://github.com/fastai/fastpages)_
