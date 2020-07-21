@@ -1,1 +1,1 @@
-Sitemap: https://vnsimple.github.io/data-analysis/sitemap.xml
+Sitemap: https://vnsimple.github.io/blog/sitemap.xml
